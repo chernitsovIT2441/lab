@@ -187,12 +187,10 @@ RAM: от 8 ГБ (рекомендуется 16 ГБ)
 GPU: желательно (CUDA поддерживается)
 
 Установка зависимостей
-Клонирование репозитория
 
-bash
+
 git clone https://github.com/your-username/plant-classification.git
 cd plant-classification
-Создание виртуального окружения
 
 bash
 python -m venv venv
